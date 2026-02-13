@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>My site</title>
+  </head>
+  <body>
+    <h1>Pages</h1>
+    <p>
+      Open the map page:
+      <a href="./iframe.html">iframe.html</a>
+    </p>
+  </body>
+</html>
